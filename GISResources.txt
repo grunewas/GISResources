@@ -1,6 +1,8 @@
 Resources for Getting Started with Geographic Information System (GIS) Mapping  
 by Susan Grunewald
 
+Updated: 09/30/2019
+
 DATA SOURCES:
 DIVA-GIS is a source of both open source mapping software and data sets  
 including country boundaries, population density, roads and climate data.
