@@ -67,6 +67,13 @@ I recommend Seth Bernstein’s two-part series on getting and cleaning historica
 data and then mapping and analyzing it in QGIS.
 	http://www.abstractualized.com/2015/10/how-to-map-gulag-data.html
 	http://www.abstractualized.com/2015/11/how-to-map-gulag-visualizing.html
+	
+The Geospatial Historian is an online textbook with great tutorials for both QGIS and ArcGIS.
+	https://geospatialhistorian.wordpress.com/lessons/
+
+Lincoln Mullen's Spatial Humanities Workshop also has helpful information for getting started with QGIS as well as other aspects of spatial humanities and various mapping interfaces.
+	https://lincolnmullen.com/projects/spatial-workshop/
+	
 The Programming Historian has a series of tutorials for an older version of QGIS  
 as well ranging from installing the software to georeferencing (taking scans of  
 old maps and then layering data on top), creating new vector layers, and  
