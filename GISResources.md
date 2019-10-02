@@ -20,8 +20,10 @@ the steps for GEOPARSING below.
 Adobe Acrobat Pro has an OCR feature in it.
  -  https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html) 
  -  https://acrobat.adobe.com/us/en/acrobat/how-to/ocr-software-convert-pdf-to-text.html
+ 
 ABBYY FineReader is another paid OCR program that works well.
  -  https://www.abbyy.com/en-me/finereader/ 
+
 Tabula is opensource and web-based. It works well to OCR text in tabular format.
  -  https://tabula.technology/
 
