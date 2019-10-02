@@ -1,31 +1,31 @@
-#Resources for Getting Started with Geographic Information System (GIS) Mapping  
+# Resources for Getting Started with Geographic Information System (GIS) Mapping  
 by Susan Grunewald
 
 Updated: 09/30/2019
 
-##DATA SOURCES:
+## DATA SOURCES:
 DIVA-GIS is a source of both open source mapping software and data sets  
 including country boundaries, population density, roads and climate data.
 	http://www.diva-gis.org/
 Check out this blog for a breakdown of free data organized by nation-state.
 	https://dragons8mycat.com/gis-data-sources/
 
-##OPTICAL CHARACTER RECOGNITION (OCR): 
+## OPTICAL CHARACTER RECOGNITION (OCR): 
 If you have a series of locations that you need to scan from a book, you can use  
 the process of OCR to turn the jpeg images of the scan back into text. You can  
 then map the locations either by following steps for GEOCODING below to turn the  
 place names into coordinates for use with mapping software or websites, or see  
 the steps for GEOPARSING below.
 
-###Adobe Acrobat Pro has an OCR feature in it.
+### Adobe Acrobat Pro has an OCR feature in it.
 	https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html
 	https://acrobat.adobe.com/us/en/acrobat/how-to/ocr-software-convert-pdf-to-text.html
-###ABBYY FineReader is another paid OCR program that works well.
+### ABBYY FineReader is another paid OCR program that works well.
 	https://www.abbyy.com/en-me/finereader/ 
-###Tabula is opensource and web-based. It works well to OCR text in tabular format.
+### Tabula is opensource and web-based. It works well to OCR text in tabular format.
 	https://tabula.technology/
 
-##GEOCODING:
+## GEOCODING:
 When you want to map places, most mapping programs will require a series of  
 latitude and longitude coordinates.
 
@@ -36,7 +36,7 @@ If you need to geolocate larger numbers of locations, I suggest using ggmap for
 R if you have some basic coding skills. 
 	https://cran.r-project.org/web/packages/ggmap/ggmap.pdf 
 
-##GEOPARSING:
+## GEOPARSING:
 If you merely want to produce a quick map with locations mentioned in a text,  
 such as a novel for example, you can upload the .txt file to Recogito.
 	https://recogito.pelagios.org/
@@ -46,7 +46,7 @@ Edinburgh Geoparser, see this tutorial from the excellent website The
 Programming Historian:
 	https://programminghistorian.org/en/lessons/geoparsing-text-with-edinburgh 
 
-##WEB MAPPING:
+## WEB MAPPING:
 One of the most basic mapping tools is National Geographic’s MapMaker  
 Interactive.
 	https://mapmaker.nationalgeographic.org/
@@ -58,7 +58,7 @@ keplr.gl
 More advanced maps and story maps can be made with Esri’s ArcGIS Online.
 	https://www.arcgis.com/home/index.html
 
-##DESKTOP MAPPING SOFTWARE:
+## DESKTOP MAPPING SOFTWARE:
 More complicated maps are generally created with desktop software.
 
 The open source QGIS is one of the best known open source mapping programs.
